@@ -1,0 +1,23 @@
+{
+  "name": "cricket-turf-tinsukia",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Premier Box Cricket Turf Website & Booking Engine for Makum Road, Tinsukia, Assam",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  },
+  "keywords": [
+    "cricket-turf",
+    "tinsukia",
+    "assam",
+    "box-cricket",
+    "booking"
+  ],
+  "author": "Cricket Turf Tinsukia",
+  "license": "ISC"
+}
